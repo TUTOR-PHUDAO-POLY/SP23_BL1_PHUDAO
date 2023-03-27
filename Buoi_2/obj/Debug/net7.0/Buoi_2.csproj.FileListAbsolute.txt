@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\bin\Debug\net7.0\Buoi_2.exe
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\bin\Debug\net7.0\Buoi_2.deps.json
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\bin\Debug\net7.0\Buoi_2.runtimeconfig.json
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\bin\Debug\net7.0\Buoi_2.dll
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\bin\Debug\net7.0\Buoi_2.pdb
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\obj\Debug\net7.0\Buoi_2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\obj\Debug\net7.0\Buoi_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\obj\Debug\net7.0\Buoi_2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\obj\Debug\net7.0\Buoi_2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\obj\Debug\net7.0\Buoi_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\obj\Debug\net7.0\Buoi_2.dll
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\obj\Debug\net7.0\refint\Buoi_2.dll
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\obj\Debug\net7.0\Buoi_2.pdb
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\obj\Debug\net7.0\Buoi_2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\PHUDAO_NET101_SP23_BL1\Buoi_2\obj\Debug\net7.0\ref\Buoi_2.dll
